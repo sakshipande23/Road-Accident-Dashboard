@@ -1,5 +1,4 @@
 # Road Accident Dashboard
-![image](https://github.com/sakshipande23/Road-Accident-Dashboard/assets/89894414/c2b30283-5c26-4637-9d3e-1a7de32df2ab)
 This project is a road accident dashboard that provides visualizations and analysis of road accident data. It aims to help stakeholders and clients understand the patterns and trends in road accidents, enabling them to make informed decisions regarding road safety.
 
 ## Table of Contents

@@ -12,7 +12,7 @@ This project is a road accident dashboard that provides visualizations and analy
 https://github.com/sakshipande23/Road-Accident-Dashboard/assets/89894414/e61deb6d-0a35-4c1e-985e-e70a07afb430
 
 ## Installation
-git clone https://github.com/your-username/road-accident-dashboard.git
+git clone https://github.com/sakshipande23/road-accident-dashboard.git
 
 ## Data Sources
 https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true
